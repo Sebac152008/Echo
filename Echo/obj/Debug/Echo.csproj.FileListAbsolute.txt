@@ -1,0 +1,11 @@
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\bin\Debug\Echo.exe.config
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\bin\Debug\Echo.exe
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\bin\Debug\Echo.pdb
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.csproj.AssemblyReference.cache
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.Form1.resources
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.Properties.Resources.resources
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.csproj.GenerateResource.cache
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.exe
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.pdb
+C:\Users\Sebastian Cuevas\Desktop\Proyecto echo\Echo\obj\Debug\Echo.Inicio.resources
