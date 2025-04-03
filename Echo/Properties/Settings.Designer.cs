@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Echo.Properties
+namespace ECHO.Properties
 {
 
 
